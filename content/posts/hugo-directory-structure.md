@@ -1,8 +1,14 @@
 ---
 title: "目录结构说明"
 date: 2022-08-02T11:18:05+08:00
-draft: true
-categories: hugo,tool
+draft: false
+categories: 
+    - hugo
+    - tool
+    - doc
+tags: 
+    - tool
+    - doc
 ---
 
 ## 目录结构

@@ -3,3 +3,6 @@ languageCode: zh-cn
 defaultContentLanguage: zh
 title: "Blog"
 theme: mini
+taxonomies:
+  category: categories
+  tag: tags
