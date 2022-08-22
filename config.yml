@@ -6,3 +6,5 @@ theme: mini
 taxonomies:
   category: categories
   tag: tags
+params:
+  imageBaseUrl: "https://img.shangao.tech/"
