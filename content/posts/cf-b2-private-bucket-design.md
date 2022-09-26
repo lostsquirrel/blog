@@ -13,7 +13,7 @@ draft: false
 
 ## 总体流程
 
-![总体流程时序图]({{< b2img "/cf_b2_private_bucket_design.jpg" >}})
+{{< b2img "/cf_b2_private_bucket_design.jpg" "总体流程时序图" >}}
 
 ## 流程说明
 

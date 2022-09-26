@@ -7,4 +7,4 @@ taxonomies:
   category: categories
   tag: tags
 params:
-  imageBaseUrl: "https://img.shangao.tech/"
+  imageBaseUrl: "https://img.shangao.tech"
