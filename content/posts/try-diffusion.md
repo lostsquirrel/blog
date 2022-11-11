@@ -12,14 +12,14 @@ draft: false
 1. 下载 app 
     源码在 https://github.com/lostsquirrel/ai-g 
     flutter 实现可自行构建
-    apk 下载地址 
+    apk 下载地址 https://github.com/lostsquirrel/ai-g/releases/download/untagged-119c33e17a97e188f45a/app-arm64-v8a-release.apk
 2. 使用
     {{<b2img "/aig0.png" "Login">}}
     在文本框中赶写口令 `v2ex` 点击 OK
 
     {{<b2img "/aig1.png" "Play">}}
     成功后点击 Go Play
-
+git a
     {{<b2img "/aig2.png" "Play">}}
     转入英文描述，目前限制最长 79 点击 OK
 
