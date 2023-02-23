@@ -12,7 +12,7 @@ draft: false
 1. 下载 app 
     源码在 https://github.com/lostsquirrel/ai-g 
     flutter 实现可自行构建
-    apk 下载地址 https://github.com/lostsquirrel/ai-g/releases/download/untagged-119c33e17a97e188f45a/app-arm64-v8a-release.apk
+    apk 下载地址 https://github.com/lostsquirrel/ai-g/releases
 2. 使用
     {{<b2img "/aig0.jpg" "Login">}}
     在文本框中赶写口令 `v2ex` 点击 OK
