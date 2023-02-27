@@ -1,8 +1,9 @@
 ---
-title: "EaseProbe 使用实验1: 简单 http probe"
+title: "EaseProbe 使用实验 1.1: 简单 http probe"
 date: 2023-02-24T18:18:02+08:00
 tags:
 - easeprobe
+- http
 categories:
 - lab
 draft: false
