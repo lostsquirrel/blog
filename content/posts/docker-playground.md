@@ -15,7 +15,7 @@ Google `云实验室` 第一个结果是 [腾讯云实验室](https://cloud.tenc
 换关键字 `docker playground` 找到 [Docker Playground](https://labs.play-with-docker.com/) 想起这个好久没用的环境了。
 - 可以添加多个机器
 - 单次使用时长 4 小时
-- 8 核 32G(应该是宿主机的)， 10G 
+- 1 核 4G(能看到宿主机的8核32G)，4G 10G 
 - 可以有端口访问
 - 可以通过 `ssh` 访问
 
