@@ -1,5 +1,5 @@
 ---
-title: "EaseProbe 使用实验 3.1: 简单 ping probe"
+title: "EaseProbe 使用实验 3.1: ping probe 多目标"
 date: 2023-02-28T15:55:06+08:00
 tags:
 - easeprobe
@@ -17,6 +17,10 @@ draft: false
 ## easeprobe 配置
 {{<gist lostsquirrel 21a41137eceac98c057ae5dee335e11b "config.yaml" >}}
 
+## 环境
+
+- [实验环境]({{< ref "/posts/docker-playground">}} "实验环境")
+
 ## 验证
 
 - 查看日志
@@ -29,3 +33,5 @@ draft: false
 不管容器设置配置 privileged: true,都会出错
 
 错误信息： `Error (ping): socket: permission denied`
+
+本地验证正常执行，猜测可能和实验环境是 docker-in-docker 环境的原因
