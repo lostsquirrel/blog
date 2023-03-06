@@ -46,7 +46,7 @@ notify:
 
 ## 环境
 
-- 配置文件 https://gist.github.com/5d87509d3ebaf7bea69376d04af6f864.git
+- [配置文件](https://gist.github.com/5d87509d3ebaf7bea69376d04af6f864.git)
 - [实验环境]({{< ref "/posts/docker-playground">}} "实验环境")
 
 ## 验证
