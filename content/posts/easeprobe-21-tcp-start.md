@@ -53,3 +53,6 @@ notify:
 
 - 查看日志
 - 查看 8181 端口
+## 视频
+
+- https://youtu.be/pxmyIdTywQY
