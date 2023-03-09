@@ -1,5 +1,5 @@
 ---
-title: "Easeprobe 使用实验 5.1: shell 命令的 ssh 配置"
+title: "Easeprobe 使用实验 5.1: ssh probe 配置"
 date: 2023-03-03T17:25:41+08:00
 tags:
 - easeprobe
