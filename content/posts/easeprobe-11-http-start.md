@@ -56,4 +56,4 @@ notify:
 
 ## 视频
 
-- https://youtu.be/0BcRlbrhRyI
+{{< youtube 0BcRlbrhRyI >}}

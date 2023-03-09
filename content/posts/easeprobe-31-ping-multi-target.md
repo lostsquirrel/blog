@@ -107,7 +107,7 @@ log:
 
 ## 视频
 
-- https://youtu.be/V-WsZEsc3lQ
+{{< youtube V-WsZEsc3lQ >}}
 
 ## 问题
 

@@ -61,7 +61,8 @@ log:
 
 ## 视频
 
-- https://youtu.be/rKQKv58DXDI
+{{< youtube rKQKv58DXDI >}}
+
 ## 问题
 
 `docker-compose.yaml` 中 `network_mode: host` 时，

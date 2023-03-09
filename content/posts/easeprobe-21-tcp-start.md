@@ -55,4 +55,4 @@ notify:
 - 查看 8181 端口
 ## 视频
 
-- https://youtu.be/pxmyIdTywQY
+{{< youtube pxmyIdTywQY >}}
