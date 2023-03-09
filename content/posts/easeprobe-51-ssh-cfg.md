@@ -15,7 +15,7 @@ draft: false
 
 ## 实验目的
 
-1. easeprobe shell command probe 的 ssh 配置使用
+1. easeprobe ssh probe 的配置使用
 2. ssh 配合堡垒机的使用
 
 ## 实验准备
