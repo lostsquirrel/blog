@@ -288,7 +288,7 @@ notify:
 
 ## 视频
 
-<!-- {{< youtube Ibkr6vS0CGE >}} -->
+{{< youtube k67BQgPU4Ic >}}
 
 ## 问题
 
