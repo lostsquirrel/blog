@@ -140,9 +140,12 @@ settings:
 - 查看 8181 端口
 
 - 由于实验环境为共享容器，物理机负载波动较大，实际表现差距可能很大
+- apk add stress-ng
+- stress-ng -c 1 --vm 15 --timeout 60 --verbose
+- dd if=/dev/zero of=1000m.bin bs=1000MB count=1
 ## 视频
 
-{{< youtube  >}}
+{{< youtube OHL85fCMWFI >}}
 
 ## 问题
 
