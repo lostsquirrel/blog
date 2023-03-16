@@ -1,5 +1,5 @@
 ---
-title: "使用实验 8.1: Native Client Redis"
+title: "Easeprobe 使用实验 8.1: Native Client Redis"
 date: 2023-03-16T15:30:38+08:00
 tags:
 - easeprobe
