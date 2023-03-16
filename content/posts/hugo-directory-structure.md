@@ -1,5 +1,5 @@
 ---
-title: "目录结构说明"
+title: "Hugo 目录结构说明"
 date: 2022-08-02T11:18:05+08:00
 draft: false
 categories: 
