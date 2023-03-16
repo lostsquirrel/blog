@@ -16,6 +16,8 @@ draft: false
 1. 创建 easeprobe native client redis probe 配置并运行
 2. 执行内容
     - 检测键 `name` 的值是 `john`
+    - 检测键值不存在的错误信息
+    - 检测键存在但值不是 `john` 的错误信息
 
 ## docker-compose 配置
 
