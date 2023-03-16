@@ -20,13 +20,47 @@ draft: false
 ## docker-compose 配置
 
 ```yaml
-
+version: "3.9"
+services:
+  probe:
+    image: megaease/easeprobe:v2.0.1
+    container_name: probe
+    volumes:
+      - type: bind
+        source: ./config.yaml
+        target: /opt/config.yaml
+        read_only: true
+    ports:
+      - 8181:8181
+  redis:
+    image: redis:7
+    container_name: redis
+    hostname: redis.somewhere
+    command: --requirepass "secpass"
 ```
 
 ## easeprobe 配置 `config.yaml`
 
 ```yaml
+client:
+  - name: Redis Native Client (somewhere)
+    driver: "redis"  
+    host: "redis.somewhere:6379"
+    password: "secpass" 
+    data: 
+      name: john 
+notify:
+  log:
+    - name: notify
+      file: /var/log/notify.log
 
+settings:
+  http:
+    log:
+      file: /var/log/access.log
+  log:
+    level: "debug"
+    file: /var/log/debug.log
 ```
 
 ## 环境
@@ -42,6 +76,6 @@ draft: false
 
 ## 视频
 
-{{< youtube  >}}
+{{< youtube _quAZrtrcKQ >}}
 
 ## 问题
