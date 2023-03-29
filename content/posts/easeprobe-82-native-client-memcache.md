@@ -2,7 +2,12 @@
 title: "Easeprobe 使用实验 8.2: Native Client Memcache"
 date: 2023-03-28T14:52:26+08:00
 tags:
+- easeprobe
+- native
+- memcache
+- config
 categories:
+- lab
 draft: false
 
 ---
@@ -106,6 +111,6 @@ settings:
 - 由于实验环境为共享容器，物理机负载波动较大，实际表现差距可能很大
 ## 视频
 
-{{< youtube hIIoHlIQt7g >}}
+{{< youtube BBJWIV1PnvI >}}
 
 ## 问题
