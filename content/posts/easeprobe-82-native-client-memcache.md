@@ -1,5 +1,5 @@
 ---
-title: "Easeprobe 82 Native Client Memcache"
+title: "Easeprobe 使用实验 8.2: Native Client Memcache"
 date: 2023-03-28T14:52:26+08:00
 tags:
 categories:
