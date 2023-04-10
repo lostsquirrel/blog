@@ -1,5 +1,5 @@
 ---
-title: "Easeprobe 使用实验 8.2: Navtive Client MongoDB"
+title: "Easeprobe 使用实验 8.3: Navtive Client MongoDB"
 date: 2023-04-10T14:48:23+08:00
 tags:
 - easeprobe
