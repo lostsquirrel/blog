@@ -130,7 +130,7 @@ settings:
 
 ## 视频
 
-{{< youtube hIIoHlIQt7g >}}
+{{< youtube GN1OoGd_9ig >}}
 
 ## 问题
 

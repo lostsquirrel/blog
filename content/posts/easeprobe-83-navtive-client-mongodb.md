@@ -122,7 +122,6 @@ settings:
 
 - [配置文件](https://gist.github.com/4dd10454c05db85086c8986bd4dfafe7.git)
 - [实验环境]({{< ref "/posts/docker-playground">}} "实验环境")
-
 ## 验证
 
 - 查看日志
@@ -130,7 +129,7 @@ settings:
 
 ## 视频
 
-{{< youtube hIIoHlIQt7g >}}
+{{< youtube GN1OoGd_9ig >}}
 
 ## 问题
 
