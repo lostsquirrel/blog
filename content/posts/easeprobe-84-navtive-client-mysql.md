@@ -140,7 +140,7 @@ settings:
 
 ## 视频
 
-{{< youtube GN1OoGd_9ig >}}
+{{< youtube tOnVn-ZGbLs >}}
 
 ## 问题
 
