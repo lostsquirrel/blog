@@ -8,7 +8,7 @@ tags:
 - config
 categories:
 - lab
-draft: true
+draft: false
 
 ---
 ## 实验目的
