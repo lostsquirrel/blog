@@ -131,7 +131,7 @@ settings:
 
 ## 实验环境
 
-- [配置文件](https://gist.github.com/4dd10454c05db85086c8986bd4dfafe7.git)
+- [配置文件](https://gist.github.com/084771c373e87c6476f535d7c48c9cf5.git)
 - [实验环境]({{< ref "/posts/docker-playground">}} "实验环境")
 ## 验证
 
