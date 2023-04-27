@@ -17,7 +17,7 @@ draft: false
 
 ## spring boot 配置
 
-- pom.xml 添加配置
+### pom.xml 添加配置
 
 ```xml
 <plugin>
@@ -31,7 +31,7 @@ draft: false
 </plugin>
 ```
 
-- 打包生成的 jar 结构
+### 打包生成的 jar 结构
 
 ```yaml
 - "dependencies":
@@ -46,12 +46,12 @@ draft: false
   - "META-INF/"
 ```
 
-    - `dependencies` 为第三方依赖
-    - `snapshot-dependencies`  版本中包含 SNAPSHOT 的第三方依赖
-    - `spring-boot-loader` spring loader 类
-    - `application` 应用代码及资源
+- `dependencies` 为第三方依赖
+- `snapshot-dependencies`  版本中包含 SNAPSHOT 的第三方依赖
+- `spring-boot-loader` spring loader 类
+- `application` 应用代码及资源
 
-- 解压 jar
+### 解压 jar
 
 查看 jar 包内容
 
