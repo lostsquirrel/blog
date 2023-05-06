@@ -84,8 +84,7 @@ settings:
 
 ## 视频
 
-{{< youtube xxx >}}
-
+{{< youtube DzxYuayXS3E >}}
 ## 问题
 
     猜测可能是实验环境物理机硬盘用尽，无法拉取太大的镜像，只能手动启动 zk 和 kafka
