@@ -1,5 +1,5 @@
 ---
-title: "Docker 入门示例 hello word"
+title: "Docker 入门示例: hello word"
 date: 2024-03-12T11:02:08+08:00
 summary: Docker 简单使用示例
 tags:
