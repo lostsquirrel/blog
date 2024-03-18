@@ -3,11 +3,13 @@ title: "解决 ubuntu 安装错误(更新)版本包引起的问题"
 date: 2024-03-18T16:33:37+08:00
 summary: 解决在 ubuntu xenial 误安装 focal 版本 docker-ce 版本引起 apt 无法使用的问题
 tags:
-- troubleshot
+
 - ubuntu
 - apt
 - dpkg
 categories:
+- troubleshot
+- ops
 draft: false
 ---
 
