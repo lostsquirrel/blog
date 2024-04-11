@@ -6,7 +6,7 @@ tags:
 categories:
     - lab
 draft: false
-
+summary: 学习 k8s 在线环境
 ---
 
 [Play with Kubernetes](https://labs.play-with-k8s.com/) 学习 k8s 在线环境

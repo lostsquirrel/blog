@@ -9,7 +9,7 @@ tags:
 categories:
 - lab
 draft: false
-
+summary: easeprobe native client kafka probe 配实验
 ---
 
 ## 实验目的

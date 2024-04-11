@@ -1,5 +1,5 @@
 ---
-title: "记一次在 ubuntu 升级 nvidia 驱动故障"
+title: "记一次在 ubuntu 升级 nvidia 驱动翻车事件"
 date: 2024-04-10T17:48:55+08:00
 summary: ubuntu 22.04 升级 nvidia 驱动时出错，导致桌面无法正常启动，并且网络故障
 tags:
